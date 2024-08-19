@@ -1,15 +1,15 @@
 {
   "name": "autowebotp",
-  "version": "1.1.4",
-  "description": "",
+  "version": "1.1.8",
+  "description": "A simple library to automatically take and validate OTP codes for your website.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["webotp", "autowebotp", "otp", "2fa", "two-factor", "authentication", "login", "password", "security", "privacy", "react", "typescript", "javascript"],
+  "author": "Vesal J.",
   "license": "ISC",
-  "dependencies": {
+  "devDependencies": {
     "typescript": "^5.5.4"
   }
 }

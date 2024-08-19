@@ -1,6 +1,6 @@
 # Auto Web OTP
 
-A simple library to automatically generate and validate OTP codes for your website.
+A simple library to automatically take and validate OTP codes for your website.
 
 ## Installation
 

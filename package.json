@@ -1,6 +1,6 @@
 {
   "name": "autowebotp",
-  "version": "1.1.8",
+  "version": "1.1.9",
   "description": "A simple library to automatically take and validate OTP codes for your website.",
   "main": "index.js",
   "scripts": {

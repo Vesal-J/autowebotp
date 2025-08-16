@@ -14,11 +14,6 @@ export function webotp(callbackFn: (otp: string) => void) {
           throw new Error("No OTP received");
         }
       })
-      .catch((err) => {
-        if (err.name !== "AbortError") {
-          console.error("WebOTP error:", err);
-        }
-      })
       .finally(() => {
         ac.abort();
       });
